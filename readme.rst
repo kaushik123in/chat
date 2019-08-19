@@ -1,5 +1,5 @@
 #######################################
-Simple Login Chat with Codeigniter and Vue JS
+Login & Chat with Codeigniter and Vue JS
 #######################################
 
 1. PHP version : 7.0
@@ -13,6 +13,13 @@ Functions:
 1. Login
 2. Chat
 
+**************
+To Run Code
+**************
+1. Extract folder at http://localhost/chat/
+2. create DB civue, and run sql file 'civue.sql'
+
+
 
 ********
 Include:
@@ -23,4 +30,3 @@ Include:
 4. Font Awesome - for cool icons
 5. Jquery - need for bootstrap but not use
 6. Axios - AJAX/HTTP library
-
